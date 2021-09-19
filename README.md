@@ -1,4 +1,4 @@
-# Donut Shop
+# Doughnut Shop :doughnut:
 
 Website for a Donut shop
 
