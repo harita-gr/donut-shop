@@ -11,7 +11,7 @@ Website for a Donut shop
 ---
 
 ### Hosted at
-<https://harita-gr.github.io/WebDesign_DonutShop/>
+[<https://harita-gr.github.io/WebDesign_DonutShop/>](https://htmlpreview.github.io/?https://raw.githubusercontent.com/haritaToboso/webDesign/master/Donut%20Shop/index.html)
 
 ---
 ### Author
